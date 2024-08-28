@@ -95,7 +95,7 @@
             display-name = "MEDIA";
 			bindings = <
 //╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮ ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
-    &bootloader   &rgb_ug RGB_HUI &rgb_ug RGB_EFF &rgb_ug  RGB_SAI &rgb_ug RGB_BRI XXX    &rgb_ug RGB_TOG &out OUT_BT &kp C_VOL_UP  &out OUT_USB  XXX           XXX          
+    &bootloader   &rgb_ug RGB_HUI &rgb_ug RGB_EFF &rgb_ug  RGB_SAI &rgb_ug RGB_BRI XXX    &rgb_ug RGB_TOG &out OUT_BLE &kp C_VOL_UP &out OUT_USB  XXX           XXX          
 //├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
     XXX           &kp LGUI      &kp LALT      &kp LCTRL     &kp LSHFT     XXX             XXX           &kp C_PREV    &kp C_VOL_DN  &kp C_NEXT    XXX           XXX
 //├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
